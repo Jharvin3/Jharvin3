@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jamaine Harvin
-- 👀 I’m interested in Computer/Data Science
+- 👀 I’m interested in Computer/Data Science and Analyst
 - 🌱 I’m currently learning concepts in Data Analysis as well as programming languages in school and on my own time.
 - 💞️ I’m looking to collaborate on projects through the workforce.
 - 📫 How to reach me; Email: Jamaine130@gmail.com
